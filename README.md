@@ -237,7 +237,7 @@ Beyond the tabs, action buttons open four modal dialogs: a Drug Interaction Chec
 
 ![Vitals](./imgs/PDVitals.png)
 ![Medications](./imgs/PDMeds.png)
-![Notes](./imgs/PDMDnotes.png)
+![Notes](./imgs/PDMDNotes.png)
 ### Analysis Dashboards (Executive, Clinical, Operations)
 
 **Purpose.** Three analytics dashboards reachable at `/executive`, `/clinical`, and `/operations`, built for hospital-wide monitoring rather than individual patient care, and integrated into the application alongside the Reception and Doctor modules.
